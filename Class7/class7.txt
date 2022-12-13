@@ -1,0 +1,37 @@
+HTML Day01
+
+HTML => Hyper text Markup Language.
+It consist of element and tags.
+<!DOCtype html> => It inform the browser about the version of the HTML.
+<meta> tags => These are the extra information about the browser. 
+<title> tags => Displays the title of the page.
+<p>This is paragraph tag</p> => Element (Comination of text and tag is called Element)
+
+Attributes => href, target
+
+Table => 
+<thead> : thead is for all heading in the table.
+<th> : th is for single cell in the table. 
+<tbody> : It is the body of the table.
+<tr> : This specify the no of rows in the table.
+<td> : This is Table Data where means as a single cell in a table.
+colspan="Number" => Is used in the <th>. and the number vary according to the no.of <td>
+
+CSS => Cascading Style Sheet (used for Styling) 
+This is to make our website attractive.
+There are three types:
+1. Internal CSS => Style tag is always inside the head tag
+2. Inline CSS
+3. Extrnal CSS     
+
+Division, Sction, Artical
+Divition => It refer to the part or a section of a document, It contain "n" No.of different element (<p> & etc...) (Heterogeneous Elements).
+Section => It refer to the part or a section of a document, It contain more No.of Same element (<p> only) (Homogeneous Elements).
+Article => Mostly used is News websites. It gives detail information.
+
+Html Forms: 
+<form></form>
+<lable for="name">Name</lable>  (for is an attribute for identification purpose)
+<input type="email" name="email">  (type is for to choose the type like button or text or email)
+     (name="email" => This give all the email suggetion that ypu have use in the browser)
+
