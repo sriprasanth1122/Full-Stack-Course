@@ -1,0 +1,52 @@
+CLASS P-1 =>
+
+Pseudo classes =>
+Used to add style to selector 
+Selector: Pseudoclass{properties}
+specially we works with anchor Tags
+
+Four types of Pseudo Class
+a.Links
+b.visited
+c.hover
+d.active
+
+Box Model => (Every element has its own box model)
+Margin
+Border 
+Padding
+
+Gradient (1:19:00) => Is used to apply muity colours in a image format
+There are two types of Gradient
+Liner: Gradient It display colour line by line in horizantal format.
+Radial: Gradient It display colour in circular motion.
+     a) Circle 
+     b) Elips (Based on height and width)
+
+Grid (1:38:00) => Is used to create a image with multiple colour.
+Uesd for the allignment purpose.
+Grid layout: Contains multiple rows and columns    
+Grid is always a 2 dimensional and always applys in rows and columns  
+Grid always used with the display properties.
+properties:
+grid container = it is defined all rows and columns
+grid layout = all indib=vidual elements of grid
+grid cell = particular Box
+grid line = line b/w rows and columns items
+grid gap = space b/w rows and columms
+
+CLASS P-2 =>
+
+FLEX =>
+Flex (2:22:00) => Alingn to use rows and columns
+Used for the website allignment purpose.
+Using flex we can alingn only rows and columns, We cannot both at the same time.
+The default property of flex is ROWS
+
+Display = flex, block
+Flex direction:
+Row
+columns
+Row Reverse (2:48:00) => To revers the element in the row
+columns Reverse
+ 
