@@ -10,10 +10,10 @@ Class2 : XMLHttpRequest
 Class3 : Functions and its types
 
 class4 : ES% vs ES6
-           let and cont, 
-           spread and rest operator (20 & 42), 
-           object and array destructuring (70 & 94), 
-           Template litrals (114)
+          a. let and cont, 
+          b. spread and rest operator (20 & 42), 
+          c. object and array destructuring (70 & 94), 
+          d. Template litrals (114)
 
 Class5 : OOP (Object Oriented Programing)
           a. Object litrals (14)
