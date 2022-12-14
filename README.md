@@ -15,7 +15,7 @@ class4 : ES% vs ES6
           c. object and array destructuring (70 & 94)
           d. Template litrals (114)
 
-Class5 : OOP (Object Oriented Programing)    
+Class5 : OOP (Object Oriented Programing)
           a. Object litrals (14)
           b. Object Constructor (29)
           c. Classes (45)
@@ -28,7 +28,7 @@ Class6 : M A P (Map , Reduce , Filter)
 Class7 : HTML Day1
 
 Class8 : HTML Day2
-         a. Tags, Inline & block elements, 
+         a. Tags, Inline & block elements,
          b. CSS Properties,
          c. Image.
 
