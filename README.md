@@ -1,5 +1,5 @@
 # Step towards Full Stack Developer.
-lam starded learning Full Stack Web Developing and Here I have uploaded my Learnings.
+lam starded learning Full Stack Web Developing and Here is what I have learned.
 
 Index:
 
