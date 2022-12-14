@@ -1,0 +1,68 @@
+Continuation of class 9...
+
+CLASS 10 P-1
+
+Flex-wrap: It is ud=sed to fix the content inside the  container.
+.nowrap : Nowarp is a default one
+.wrap : We should not use height in the wrap(if so it will be improper)
+.wrap-reverse : It reverse the elements in the container
+wrap work based on the height and width. 
+ 
+CLASS 10 P-2
+
+Flex-Justify-Content: To Justify the contents in the disired way
+There are 6 types in flex justify content:
+Flex-Start
+Flex-End
+Center
+Space-Around
+Space-Between
+Space-Evenly
+(How to use: justify-content="flex-end";)
+(Justify-content is for horizantal alignent)
+
+CLASS 10 P-3
+
+Align-items- For vertical alignment.
+There are some types: 
+Flex-Start
+Flex-End
+Center
+(align items used with the flex wrap)
+(How to use: align-items="flex-end";)
+
+CLASS 10 P-4
+
+Media queries : Is used for responsive web design.
+It is found before the bootstarp for responsive web design.
+For 90% we use bootstrap only sometimes we use media query.
+Syntax:
+@mediascreen and () {code}
+It is always in the style tag
+
+CLASS 10 P-5 (1:51:00)
+
+Overflow CSS => Contents comes outside the items or container
+There are 4 properties:
+.Hiddern
+.Visible (Default Property)
+.Scroll 
+.Auto
+
+CLASS 10 P-6 (1:08:00)
+
+Portion Property
+There are 5 Property
+.static (Default Property)
+.relative : It is used when we need to position the html element and this relative is normal to its position
+            They are affected left or right or top or bottom
+            Document flow is get affected.
+            It was used rarly
+            Space is creted for them in the Document
+.Absolute : This is positioned with respect to parent element
+            They are or affected left or right or top or bottom
+            Space is not creted in the Document
+            Absolute always return with Relative
+
+.Fixed 
+.sticky
