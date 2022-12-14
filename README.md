@@ -3,6 +3,28 @@ lam starded learning Full Stack Web Developing and Here is what I have learned.
 
 Index:
 
+Class1 : Array of object, for in
+
+Class2 : XMLHttpRequest
+
+Class3 : Functions and its types
+
+class4 : ES% vs ES6
+          a. let and cont 
+          b. spread and rest operator (20 & 42)
+          c. object and array destructuring (70 & 94)
+          d. Template litrals (114)
+
+Class5 : OOP (Object Oriented Programing)    
+          a. Object litrals (14)
+          b. Object Constructor (29)
+          c. Classes (45)
+
+Class6 : M A P (Map , Reduce , Filter)
+          a. map()
+          b. filter()
+          c. Reduce()
+          
 Class7 : HTML Day1
 
 Class8 : HTML Day2
