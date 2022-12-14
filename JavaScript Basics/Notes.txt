@@ -1,0 +1,67 @@
+Important interview questions
+1. XML http request : Extensiable Markup Language
+2. hoisting :Mmove to top all the declarations
+
+
+
+
+__________________________________________________________
+06aug2022
+
+for in starts with the index value of 0(is used in array and arraof object)
+for of starts with the index value of 1
+if there is no condition like need to loop all the elements contiouusly we use for in
+if there is any condition we use normal for loop
+
+Syntax for for in
+// for(variable in objectname){
+
+}
+// for(var i in array){
+    console.log(i)
+    } 
+__________________________________________________________
+07aug2022
+
+XML http request
+XML= Extensiable markup language
+API= Application Program Interface 
+
+four steps in xml request
+step 1 : cereate a XHR object
+var request = XMLHttpRequest(); (line links the client to the server)
+
+step 2 : initialize the connection
+request.open();
+// frst parameter : 'GET'
+// second parameter : 'api URL'
+// optional third parameter : true
+__________________________________________________________
+08aug2022
+
+Hoisting : moving all the declarations to the top
+
+scope : 
+three types of scope
+1. global scope     var
+2. function scope   function()
+3. block scope      const , { }
+
+Function
+1.Named function
+2.Anonymous
+3.Arrow function
+4.IIFE : Imidiatily Invoked Function
+
+Functions : set of instruction to perform a specific task
+code reusuability => functions
+__________________________________________________________
+11AUG2022  
+
+ES5 vs ES6
+ES : ECMASCRIPT
+ES5 introduced in 2009 and ES6 introduced in 2015
+
+To over come the limitation of var, let and const are introduced
+
+api key: AIzaSyCX0_q6YFxtz5Q1O4anV7PuTqPRW6uM6Vs
