@@ -1,5 +1,5 @@
 # HTML-CSS
-Steps towards Full Stack Developer.
+# Step towards Full Stack Developer.
 I have learned HTML and CSS.
 
 Index:
