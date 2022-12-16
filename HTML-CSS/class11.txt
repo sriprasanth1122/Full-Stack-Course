@@ -1,0 +1,27 @@
+What is a Responsive Web Design (RWD)?
+RWD means it fit to any screen, It should be responsive all web design, For user convenent.
+
+Why it is used?
+For user convenent.
+
+What is the thing we used for Responsive Web Design(RWD) ?
+For RWD we use 90% mostly bootstrap and 10% mediaquery.
+
+What is bootstarap?
+If we use bootstrap we dont need to use css again and again.
+It will consume less time. In bootatrap codes are inbuilt.
+We should link the cdn link in the file 
+
+2 methods to use bootstrap:
+.Copy cdn link and paste  
+.Downlode bootstrap files => and move the downloded file to the vs code folder then link the folder to the html file .
+
+Grid:
+It has a container and it has multiple rows where it has only to be 12columns in a row
+1 Row = 12 Columns
+We can divide 12 Columns by
+6/6 => 2parts
+4/4/4 => 3parts
+3/3/3/3 => 4parts
+2/2/2/2/2/2 => 6parts
+1/1/1/1/1/1/1/1/1/1/1/1/ => 12parts
