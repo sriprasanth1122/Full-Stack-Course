@@ -49,3 +49,8 @@ Class10: HTML Day4
          f. Position Property (P-6),
          g. Font icons,
          h. Drop Box.
+        
+Class11: HTML Day5
+         a. Responsive web design
+         b. How to setup bootstrap?
+         c. How to setup bootstrap?
