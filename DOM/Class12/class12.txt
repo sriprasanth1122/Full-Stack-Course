@@ -1,0 +1,52 @@
+DOM => Document Object Module
+
+What is DOM?
+All the html elements are created in JavaScript file. All the elements afe created dynamicly
+
+We use DOM to cteate a dynamic way of code insted of creating in static way.
+Using tags like <div> <p> in html is a static way but using tags in JavaScript is a Dynamic maethod.
+
+DOM is used for CRUD:
+C: Create
+R: Read
+U: Update
+D: Delete
+So we can manage/ manipulate the DOM elements By Using Javascript.
+Easily control its elements, Attributes and all nodes.
+
+Inbuilt functions:
+.createElement
+.setAtribute
+.querySelector , querySelectorAll
+.getElementById , getElementByClassname
+.append , appendChild
+.innerText , innerHtml
+
+Append and Append-Child:
+For multiple elements we use : Append
+For single elements we use : Append-Child
+(We can use append insted od append-child,  But cant use append-child insted of append)
+(All the we can use Append its, We dont need to use Append-child.
+
+innerText and innerHtml:
+.Cannot inesert the html tags in in the innerText // we can do in innerHtml
+.The spaces are consisder in the innerText // innerHtml dont consisder.
+.innerText returns text with inner Element tags // innerHtml returns without elememt tags
+
+SetAttribute:
+To create id and class.
+To create class and id dynamicly.
+
+syntax : 
+setAtribute('classs or id' , 'name')
+_______________________________________________ 
+Class list:
+Through SetAtribute we can add one id one class at a time. But by using classList we can add multiple no.of class.
+If we want to append multiple classes use classlist.
+
+getElementByClassname and getElementById
+To design or code an element by using its id or class name we use these keywords.
+
+querySelector & querySelectorAll
+If we want to choose a particular word or text in a document or dropdown we use querySelector
+if we want to select all the elments then we will go for querySelectorAll
