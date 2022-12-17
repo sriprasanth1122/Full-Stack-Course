@@ -56,15 +56,15 @@ Class11: HTML Day5
          c. How to setup bootstrap?
          
 Class12: DOM Day1
-         a. CreateElement,  
-         b. AppendChild vs append, 
-         c. IinnerHTML vs innerText, 
-         d. SetAttribute, 
+         a. CreateElement,
+         b. AppendChild vs append,
+         c. IinnerHTML vs innerText,
+         d. SetAttribute,
          (how to push codes in the github at last)
 
 Class13: DOM Day2
-         a. Window Utility Functions, 
-         b. SetTimeout, clearTimeout, 
-         c. SetInterval, clearInterval, 
-         d. Alert, Confirm, Promt, 
+         a. Window Utility Functions,
+         b. SetTimeout, clearTimeout,
+         c. SetInterval, clearInterval,
+         d. Alert, Confirm, Promt,
          e. Events.
