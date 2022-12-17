@@ -1,0 +1,53 @@
+CLASS 13 P-1 --------->
+
+Window Utility Function
+JS is synchronus Function, In the the problem is if one line is not executed the following will also not executed.
+For this problem we use solution as => Timing Events. (Make JS to Synchronus to nonSynchronus)
+
+There are 2 main methods we use in window utility method :
+setTimeout, setInterval
+
+setTimeout:
+It will be implemented or executed after specific time.
+It will be executed only once.
+ArIthmetic also can be performed in setTimeout.
+To stop setTimeout we can use: clearTimeout.
+
+Syntax:
+setTimeout(function,milliseconds)
+
+.SMALL HINT :
+var conunter = document.getElementById('counter')
+ if(i==10){
+        setTimeout(() => {
+     ## console.log("Happy Independence Day")        => It will print output in the console page
+     ## conter.innerText="Happy Independence Day"    => It will print output in the document page
+        },1000)
+
+setInterval:
+We can call a same function again and again after certain interval it is called setInterval.
+
+Syntax:
+setInterval(function,millisecond)
+
+
+CLASS 13 P-2 --------------->
+
+Alert, Confirm, Promt
+
+Alert:
+It is a pop up with one button is displayed in the web page.
+When ever I open my browser a alert msg shown, It has only one button.
+
+Confirm:
+When browser is open, this also open with 2 button (Ok & Cancel)
+
+Promt:
+Promt will always ask a Question to enter ointo the website.
+
+Events:
+There are many Events in JS, Here we going to see Onclick Event
+Onclick: We create onclick dynamicly by using Add Event Listener in DOM.
+Events in DOM: addeventlistner keyword.
+
+Syntax: addeventlistner('Event name',Function name)
