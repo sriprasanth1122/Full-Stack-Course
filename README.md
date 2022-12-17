@@ -59,7 +59,7 @@ Class12: DOM Day1
          a. CreateElement,
          b. AppendChild vs append,
          c. IinnerHTML vs innerText,
-         d. SetAttribute,
+         d. SetAttribute.  
          (how to push codes in the github at last)
 
 Class13: DOM Day2
