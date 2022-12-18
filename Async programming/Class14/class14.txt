@@ -1,0 +1,40 @@
+Async programming Day1 - Callback
+
+JavaScript always give preference to first comes first. Prefer who take less time.
+   
+JavaScript is a synchronous function (Line by line execution) so this consume more memory and time.
+So for the Advance JavaScript is founded.
+
+Advance JS : 
+It is to make Synchronuous to async... function
+
+.Callback (1st invention of advance JS) => Real time use => DS & Algo____________________
+It is a function which take one or more function as a parameter.
+SetTimeout is an exapmle for classback function.
+
+SetTimeout is an example of async function
+It take function as a parameter
+As well as the  amount of time need to block the code.
+
+Why callback is needed? => Now used in NodeJS (Backend)
+To avoid time consuming and memory waste. 
+
+Step by step execution of callback function:________________
+
+ callstack : It is a place in a browser where it keeps track of the function(all codes) that has to be called in the program.
+             It has all the callback function indside it. Then it send it to webapi
+
+ webapi : It holds the callback function according to its time and send it to the callbackqueue
+
+ callbackqueue : It handle the callback function which is need to be executed.
+
+ eventloop : This send the function from callbackqueue to the callstack in needed times.
+
+ These four elements are elements which execute the functions like SetTimeout.
+
+
+Pain of Callback (Disadvantages of Callback)______________________________________________________________________________________________________________
+
+Callback Hell: (Multiple function inside a function)
+It is a function consist os function inside a function and function inside a function if continuoes it is called callback function.
+It is known as the pain of callback, It means it is the disadvantage of the callback.
