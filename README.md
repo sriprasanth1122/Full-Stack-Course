@@ -68,3 +68,4 @@ Class13: DOM Day2
          c. SetInterval, clearInterval,
          d. Alert, Confirm, Promt,
          e. Events.
+         
