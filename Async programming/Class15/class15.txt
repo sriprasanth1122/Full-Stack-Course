@@ -1,0 +1,52 @@
+
+Promise ___________________________
+It is to over come the disadvantages in the Callback.
+
+What is a promise ?
+A promise is a JavaScript object that links producing code and consuming code.
+It is an objectwhich holds the result of async operation.
+
+Inside the promise it always takes function as a parameter.
+ The function it has 2 parameters
+ .Resolve
+ .Reject
+
+There are some states in Promise, They are
+ .Pending
+ .Resolve / Fulfilled
+ .Reject 
+
+Syntax: 
+var variable name = new Ppromise ( () => { } );
+(Here new is an inbuild keyword, in OPP javascript)
+
+We cannot use resolve reject at the same time, if used then the output will be pending.
+When the result is got rejected it will always show a error msg with the result.
+
+When we dont want to get the error msg allong with the rejected state we want to handle the function.
+To handle the Promise we use => .then and .catch
+.then => for Success => Resolved
+.catch => for Failure => Rejected
+As a developer you need to use both .then and .catch in a function.
+
+when ever we are using promise wiyhout error handling messages, SetTimeout will not work inside the function.
+
+Dependent operation, Promise chain __________________________________________
+
+Result got from an 1 fn is an input of the next function is called dependent function.
+This process occurs again and again is called promise Chain.
+
+Promise.all & Promise.allsettled____________________________________
+
+If you are using multiple promises there are more number of .then .catch needed
+Which is a time consuming process and chances of syntax is high.
+To over come this drawback we got promise.all method
+It will return all function at the same time eventhough we using SetTimeout.
+
+Major Drawback: (It hides the resolved statu)
+Promise.all will always returns the rejected function. It returns resloved when all the elements are true in a function. Eventhough some function are get fulfiled.
+
+To over come this => Promise.allsettled is founded.
+Promise.allsettled: 
+It shows all the outputs, no matter it is resolved or rejected.
+It shows status of all function.
