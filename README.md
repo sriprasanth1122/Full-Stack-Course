@@ -69,3 +69,10 @@ Class13: DOM Day2
          d. Alert, Confirm, Promt,
          e. Events.
          
+Class14: Async programming Day1 : Callback
+
+Class15: Async programming Day2 :
+         a. Promise
+         b. .then, .catch
+         c. Dependent operation
+         d. Promise Chain, all, allsettled
