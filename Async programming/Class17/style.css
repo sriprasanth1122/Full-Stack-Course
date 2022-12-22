@@ -1,0 +1,80 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+/* #allContent {
+    position: absolute;
+    top: 50%;   
+    left: 50%; 
+    transform: translate(-50%, -50%);
+} */
+
+#txt {
+    border: none;
+    background-color: rgb(246, 217, 179);
+    height: 26px;
+    width: auto;
+    border-radius: 10px;
+    /* border: 1px solid black; */
+    outline: none;
+    padding-left: 10px;
+    /* padding: 0 2px 0 10px; */
+}
+
+#btn {
+    border: none;
+    border-radius: 10px;
+    padding: 5px 8px 5px 8px;
+    margin-left: 5px;
+    background-color: rgb(238, 243, 159);
+}
+
+#btn:hover {
+    background-color: blanchedalmond;
+    /* padding: 6px; */
+}
+
+#active {
+    margin-top: 20px;
+    background-color: rgb(241, 150, 241);
+    border-radius: 10px;
+    width: 300px;
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#recovered {
+    margin-top: 10px;
+    background-color: rgb(241, 150, 241);
+    border-radius: 10px;
+    width: 300px;
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#confirmed {
+    margin-top: 10px;
+    background-color: rgb(241, 150, 241);
+    border-radius: 10px;
+    width: 300px;
+    padding: 15px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#deaths {
+    margin-top: 10px;
+    background-color: rgb(241, 150, 241);
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

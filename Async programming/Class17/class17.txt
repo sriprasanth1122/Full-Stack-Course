@@ -1,0 +1,10 @@
+Async / await => fetch ... It is an alternative for fetch.
+Syntatic sugar => Means easy way to write the code.
+
+async await returns always a Promise.
+Await is replacement for .then
+To handle error we use => try catch 
+
+COVID19 api__________
+In this class fetching data from the api by using DOM.
+(For covid19 page design 1:00:00)
