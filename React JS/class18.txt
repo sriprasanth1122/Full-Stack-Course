@@ -1,0 +1,45 @@
+React Day01
+
+Things about basics:
+
+Data types => 
+
+String : "Hello world"
+number : 5
+Boolean : True/False
+null : Null
+Undefined : Undefined
+Object : {}
+    Key value pair.
+Array : []
+    Collection of values or different datatype
+
+For & ForEach => 
+
+For: Here we give to give the value  for the loop
+ForEach: (It works in Array)
+It will automaticly loop itself througt out the Array form start of the index to the end of the index.
+
+.map: It will return value in array
+
+...Spread Operator
+This we use in array.
+
+...Rest Operator
+This we use in function parameter.
+
+
+------> Important <------
+**
+JavaScript is a single-thread, Non Blocking Code, asynchornous, concurrent programming language.
+**
+------> Important <------
+
+(Ref Line: 92 to 176)_____________________________
+CallBack -> Callback -> Promise -> Promise Chain -> Async/Await
+To avoid CallBack hell -> Promise is used
+To avoid Promise chain -> Async/Await is used 
+
+Async/Await => means the function is now async so await some functions.
+
+Import & Export => Means you can export 1 JS file and can import that in another JS file.
