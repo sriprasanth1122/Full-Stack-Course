@@ -76,5 +76,10 @@ Class15: Async programming Day2 :
          b. .then, .catch
          c. Dependent operation
          d. Promise Chain, all, allsettled
-         
-                                                                                                                                
+
+Class16: Async programming Day3
+         a. Fetch API
+         b. MockAPI
+         c. CRUD
+
+Class17: Async programming Day4
