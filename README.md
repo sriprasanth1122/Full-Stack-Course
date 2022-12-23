@@ -71,15 +71,15 @@ Class13: DOM Day2
          
 Class14: Async programming Day1 : Callback
 
-Class15: Async programming Day2 :
+Class15: Async programming Day2 
          a. Promise
          b. .then, .catch
          c. Dependent operation
          d. Promise Chain, all, allsettled
 
-Class16: Async programming Day3
+Class16: Async programming Day3 
          a. Fetch API
          b. MockAPI
          c. CRUD
 
-Class17: Async programming Day4
+Class17: Async programming Day4 
